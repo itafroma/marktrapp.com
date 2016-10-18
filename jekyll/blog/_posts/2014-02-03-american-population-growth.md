@@ -20,8 +20,8 @@ But after a few hours of refamiliarization, I was able to cobble together a wrap
 The first test of this new library was a relatively simple one: using decennial US Census Data, I plotted the populations of the original 13 states over time:
 
 <figure>
-    <a href="original-13-states"><img src="/assets/images/wormtrails/states-original-13-thumb.png" alt="Wormtrails graph of the population of the original 13 US states over time"></a>
-    <figcaption>Wormtrails graph of the population of the original 13 US states over time. <a href="original-13-states">Full size</a>.</figcaption>
+    <a href="./original-13-states"><img src="/assets/images/wormtrails/states-original-13-thumb.png" alt="Wormtrails graph of the population of the original 13 US states over time"></a>
+    <figcaption>Wormtrails graph of the population of the original 13 US states over time. <a href="./original-13-states">Full size</a>.</figcaption>
 </figure>
 
 With this example, you can see some obvious properties like the gradual population expansion over time and New York’s relative population dominance since the early 19th century. There is one interesting feature: Georgia seemed to be destined to be in the bottom tier when compared to the other original 13 states, but its fortune did a 180 in the 1970s, overtaking New Jersey in the last census to become the 3rd most populous state of the original 13.
@@ -31,8 +31,8 @@ Another interesting feature is the sharp drop in New Jersey’s ranking, which l
 With the first basic test done, I decided to see what it would look like with all 50 states:
 
 <figure>
-    <a href="all-states"><img src="/assets/images/wormtrails/states-thumb.png" alt="Wormtrails graph of the population of all 50 US states over time"></a>
-    <figcaption>Wormtrails graph of the population of all 50 US states over time. <a href="all-states">Full size</a></figcaption>
+    <a href="./all-states"><img src="/assets/images/wormtrails/states-thumb.png" alt="Wormtrails graph of the population of all 50 US states over time"></a>
+    <figcaption>Wormtrails graph of the population of all 50 US states over time. <a href="./all-states">Full size</a></figcaption>
 </figure>
 
 This one is really wacky and hard to read, but quite colorful. The additional color comes from how the *Wormtrails* library colors worms: the worms that first appear in the first time period (in this case, the 1790 census) are colored different shades of red. It then varies the hue for worms that first appear later. In this example, states that were first counted in 1820 are colored yellow, those that were first in 1850 are green, and so on.
@@ -49,8 +49,8 @@ In comparison, there’s rarely ever any negative populationg growth amongst sta
 So I decided to see what would happen if the graph was limited to just the top 10 states over time:
 
 <figure>
-    <a href="top-10-states"><img src="/assets/images/wormtrails/states-top-10-thumb.png" alt="Wormtrails graph of the population of the top 10 US states over time"></a>
-    <figcaption>Wormtrails graph of the population of the top 10 US states over time. <a href="top-10-states">Full size</a></figcaption>
+    <a href="./top-10-states"><img src="/assets/images/wormtrails/states-top-10-thumb.png" alt="Wormtrails graph of the population of the top 10 US states over time"></a>
+    <figcaption>Wormtrails graph of the population of the top 10 US states over time. <a href="./top-10-states">Full size</a></figcaption>
 </figure>
 
 This example is a bit less crazy than the one with all the states, but it’s still a jumble of colors. It’s easy to infer from this that by 1870, once a state gets into the top 10, it stays there, with the exception of a number of states dancing about the bottom of the top 10.
@@ -60,8 +60,8 @@ This example is a bit less crazy than the one with all the states, but it’s st
 States aside, the real reason for this exercise was to reimagine Peakbagger.com’s city population charts:
 
 <figure>
-    <a href="peakbagger-cities"><img src="/assets/images/wormtrails/peakbagger-cities-thumb.png" alt="Wormtrails graph of Peakbagger.com’s US metro populations"></a>
-    <figcaption>Wormtrails graph of Peakbagger.com’s US metro populations. <a href="peakbagger-cities">Full size</a></figcaption>
+    <a href="./peakbagger-cities"><img src="/assets/images/wormtrails/peakbagger-cities-thumb.png" alt="Wormtrails graph of Peakbagger.com’s US metro populations"></a>
+    <figcaption>Wormtrails graph of Peakbagger.com’s US metro populations. <a href="./peakbagger-cities">Full size</a></figcaption>
 </figure>
 
 Right away, I dropped Peakblogger.com’s metro data before 1790: the difference between the start and end of the graph is so large that they’d be invisible. Even anything prior to 1910 is unreable by scanning. The two biggest takeaways from this illustration are:
@@ -72,8 +72,8 @@ Right away, I dropped Peakblogger.com’s metro data before 1790: the difference
 Because of the scaling issues, I wanted to see what would happen if the timeline was split in two. Here’s 1790–1890:
 
 <figure>
-    <a href="peakbagger-cities-1790-1890"><img src="/assets/images/wormtrails/peakbagger-cities-1790-1890-thumb.png" alt="Wormtrails graph of Peakbagger.com’s US metro populations, 1790–1890"></a>
-    <figcaption>Wormtrails graph of Peakbagger.com’s US metro populations, 1790–1890. <a href="peakbagger-cities-1790-1890">Full size</a></figcaption>
+    <a href="./peakbagger-cities-1790-1890"><img src="/assets/images/wormtrails/peakbagger-cities-1790-1890-thumb.png" alt="Wormtrails graph of Peakbagger.com’s US metro populations, 1790–1890"></a>
+    <figcaption>Wormtrails graph of Peakbagger.com’s US metro populations, 1790–1890. <a href="./peakbagger-cities-1790-1890">Full size</a></figcaption>
 </figure>
 
 While New York dominates the graph as before, there are still some interesting aspects that weren’t readily apparent on the full graph. For example, a number of upstate New York cities make the list for a few decades: Albany, Buffalo, Rochester, and Syracuse. While Albany was fairly populous from the start, the others no doubt are in the top 20 due to the completion and subsequent use of the Erie Canal. Chicago’s entry around the same time is almost certainly causally connected.
@@ -81,8 +81,8 @@ While New York dominates the graph as before, there are still some interesting a
 Now to look at 1900–2010:
 
 <figure>
-    <a href="peakbagger-cities-1900-2010"><img src="/assets/images/wormtrails/peakbagger-cities-1900-2010-thumb.png" alt="Wormtrails graph of Peakbagger.com’s US metro populations, 1900–2010"></a>
-    <figcaption>Wormtrails graph of Peakbagger.com’s US metro populations, 1900–2010. <a href="peakbagger-cities-1900-2010">Full size</a></figcaption>
+    <a href="./peakbagger-cities-1900-2010"><img src="/assets/images/wormtrails/peakbagger-cities-1900-2010-thumb.png" alt="Wormtrails graph of Peakbagger.com’s US metro populations, 1900–2010"></a>
+    <figcaption>Wormtrails graph of Peakbagger.com’s US metro populations, 1900–2010. <a href="./peakbagger-cities-1900-2010">Full size</a></figcaption>
 </figure>
 
 New York doesn’t dominate as much, especially once Los Angeles’s population picks up during the Great Depression. Rust Belt cities like Cincinnati, Cleveland, and Pittsburgh drop off the list entirely between 1970 and 1990. And the top cities at the start of the 20th century mostly stayed that way until the latter half, when Texan, Floridian, and Western cities start to populate the 10–20 spots.
@@ -90,8 +90,8 @@ New York doesn’t dominate as much, especially once Los Angeles’s population 
 One last example: what *would* happen if the scale was increased to allow the earlier cities to be seen? I decided to increase the scale to the maximum SBCL would allow before exhausting its heap:
 
 <figure>
-    <a href="peakbagger-cities-full-scale"><img src="/assets/images/wormtrails/peakbagger-cities-full-scale-thumb.png" alt="Wormtrails graph of Peakbagger.com’s US metro populations at max scale"></a>
-    <figcaption>Wormtrails graph of Peakbagger.com’s US metro populations at max scale. <a href="peakbagger-cities-full-scale">Full size</a></figcaption>
+    <a href="./peakbagger-cities-full-scale"><img src="/assets/images/wormtrails/peakbagger-cities-full-scale-thumb.png" alt="Wormtrails graph of Peakbagger.com’s US metro populations at max scale"></a>
+    <figcaption>Wormtrails graph of Peakbagger.com’s US metro populations at max scale. <a href="./peakbagger-cities-full-scale">Full size</a></figcaption>
 </figure>
 
 Totally unreadable, but hilarious.
