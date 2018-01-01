@@ -13,7 +13,7 @@ This repository contains the code for generating [marktrapp.com][1]. The purpose
 * [RedCarpet][3] 3.1.2 or later
 * [Jekyll][4] 2.0.0 or later
 * [Rake][5]
-* [Node Package Manager (NPM)][6]
+* [Yarn][6]
 
 RedCarpet, Jekyll, and Rake have their own requirements and dependencies. If you follow the installation instructions below, those dependencies will be resolved automatically.
 
@@ -30,7 +30,7 @@ The generated site will be contained in the `_sites` directory.
 
 ## Licenses and usage
 
-Where applicable, all files are copyright © 2013–2015 Mark Trapp.
+Where applicable, all files are copyright © 2013–2017 Mark Trapp.
 
 Files within this repository are licensed on an individual basis. Note that there are automatic limitations to copyright (called "fair use" or "fair dealing")—including, but not limited to, excerpting, commentary, and personal reproduction—that do not require a license.
 
@@ -43,6 +43,6 @@ Some files (e.g., the files that appear in the `_posts` directory) are not grant
 [3]: https://github.com/vmg/redcarpet "RedCarpet repository"
 [4]: https://github.com/jekyll/jekyll "Jekyll repository"
 [5]: http://rake.rubyforge.org "RAKE - Ruby Make"
-[6]: http://npmjs.org "NPM website"
+[6]: https://yarnpkg.com "Yarn website"
 [7]: http://jekyllrb.com/docs/frontmatter/ "Jekyll: Front-matter"
 [8]: http://marktrapp.com/contact "Contact Mark Trapp"

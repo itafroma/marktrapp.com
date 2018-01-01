@@ -11,7 +11,7 @@ target = '_site'
 
 desc 'Install the necessary dependencies for building the website.'
 task :install do |t|
-  sh 'npm install'
+  sh 'yarn install'
   sh "#{npm_bin}/bower install"
 end
 

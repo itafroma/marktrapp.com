@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 gem 'redcarpet'
-gem 'jekyll'
+gem 'jekyll', '~> 2.1'
 gem 'rake'
 gem 'rouge'
 gem 's3_website'
