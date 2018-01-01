@@ -8,6 +8,6 @@
         "bower": "~1.2.0",
         "group-css-media-queries": "1.0.0",
         "less": "~1.5.0",
-        "uglify-js": "~2.4.0"
+        "uglify-js": "~2.6.0"
     }
 }
