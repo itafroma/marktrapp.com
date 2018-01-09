@@ -48,5 +48,5 @@ On Saturday, I discussed a little about “[armchair entrepreneuring][6]” and 
 [3]: http://friendfeed.com/e/5247d64c-a5d3-5602-2313-5aecfb10e588/scobleizer-On-FF-leaving-dumb-comments-will/ "@scobleizer On FF, leaving dumb comments will increase the attention you get. Not so on Twitter, where dumb tweets hurt your follower count."
 [4]: https://marktrapp.com/blog/2008/09/27/argumentation-its-not-just-trolls "Argumentation: it’s not just for trolls"
 [5]: https://marktrapp.com/blog/2009/01/04/anatomy-argument "Anatomy of an Argument"
-[6]: https://marktrapp.com/blog/2009/01/03/armchair-entrepeneuring "Armchair Entrepeneuring"
+[6]: https://marktrapp.com/blog/2009/01/03/armchair-entrepreneuring "Armchair Entrepeneuring"
 [7]: http://www.apple.com/pr/library/2009/01/05sjletter.html "Letter from Apple CEO Steve Jobs"

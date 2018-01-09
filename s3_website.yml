@@ -106,6 +106,14 @@ routing_rules:
         key_prefix_equals: blog/2014/01/04/whats-changed
       redirect:
         replace_key_with: blog/2014/01/05/whats-changed/
+    - condition:
+        key_prefix_equals: blog/2009/01/03/armchair-entrepeneuring
+      redirect:
+        replace_key_with: blog/2009/01/03/armchair-entrepreneuring/
+    - condition:
+        key_prefix_equals: blog/2008/09/23/friendship-digital-world-part-2
+      redirect:
+        replace_key_with: blog/2008/09/24/friendship-digital-world-part-2/
 
 # Private data
 # s3_id: YOUR_AWS_S3_ACCESS_KEY_ID
