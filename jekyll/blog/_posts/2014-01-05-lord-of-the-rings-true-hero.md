@@ -5,7 +5,7 @@ date: 2014-01-05T20:45:00-08:00
 excerpt: The true hero of the Lord of the Rings is up to the reader, but J.R.R. Tolkien had someone specific in mind.
 note: This is adapted from an [answer I gave on Stack Exchange](http://scifi.stackexchange.com/questions/6238/did-tolkien-really-explicitly-consider-sam-the-true-hero-of-lotr/6239#6239) in 2012.
 
-section: Science Fiction & Fantasy
+section: Hobbies
 tags: [Lord of the Rings]
 
 license: none

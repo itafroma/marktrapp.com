@@ -2,7 +2,7 @@
 title: History, science, and a problematic Cosmos
 excerpt: A critical look at the first episode of Cosmos.
 
-section: Science
+section: Hobbies
 tags: [Cosmos, Niel deGrasse Tyson]
 
 license: none

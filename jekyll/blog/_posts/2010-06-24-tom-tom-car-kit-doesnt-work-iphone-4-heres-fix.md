@@ -5,7 +5,7 @@ date: 2010-06-24T08:41:07-07:00
 excerpt: Sticking something 1.78mm/0.07in thick behind the base of the iPhone 4 when sticking it into the iPhone car kit gets the kit to recognize the 30 pin dock connector.
 
 published: false
-section: Tech Business
+section: Technology
 tags: [iPhone, iPhone 4, TomTom, TomTom iPhone car kit, how-tos]
 
 license: none

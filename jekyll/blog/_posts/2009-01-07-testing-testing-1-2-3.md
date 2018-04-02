@@ -6,7 +6,7 @@ excerpt: Before testing out the latest shiny toy, take a few minutes and ask you
 
 tags: [Disqus, FriendFeed, Mark Hopkins, social media, Steven Hodson, testing, Twitter, commentary]
 
-section: Social Media
+section: Technology
 license: none
 
 ---

@@ -6,7 +6,7 @@ excerpt: BuddyFeed is a promising native iPhone client for FriendFeed, but there
 note: This app is no longer available.
 
 published: false
-section: Social Media
+section: Technology
 tags: [BuddyFeed, FriendFeed, iPhone, review]
 
 license: none

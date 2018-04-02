@@ -6,7 +6,7 @@ excerpt: Using two features from Google Voice and AT&T, you can maximize your Go
 note: The dispute that prevented a Google Voice app from being available on iOS was eventually resolved. Additionally, iOS 4 added support for sending and receiving VoIP calls, obviating the need for this workaround.
 
 published: false
-section: Tech Business
+section: Technology
 tags: [AT&T, calling circle, Google Voice, iPhone, how-tos]
 
 license: none

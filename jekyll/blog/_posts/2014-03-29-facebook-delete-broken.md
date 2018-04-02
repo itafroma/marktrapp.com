@@ -4,7 +4,7 @@ title: "Years down the drain: Facebook’s broken UI"
 date: 2014-03-29T22:10:00-07:00
 excerpt: Facebook’s workflow for deleting posts makes it easy to delete far more than you’d ever want.
 
-section: Social Media
+section: Technology
 tags: [Facebook, user interface, user experience]
 
 license: none

@@ -6,7 +6,7 @@ excerpt: Mark. Blog. is going back to school.
 note: This was a dumb idea.
 
 published: false
-section: Meta
+section: Hobbies
 tags: [tracks, office hours, philosophy]
 
 license: none

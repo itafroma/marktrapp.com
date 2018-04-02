@@ -6,7 +6,7 @@ excerpt: The value of social media for the business-to-business model, especiall
 note: This was a poorly-thought out attempt at getting engagement on my blog.
 
 published: false
-section: Social Media
+section: Technology
 tags: [business to business, enterprise 2.0, social media, Twitter, commentary]
 
 license: none
